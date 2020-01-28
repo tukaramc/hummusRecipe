@@ -1,3 +1,7 @@
+Command to avoid errors : ```sudo npm install https://github.com:tukaramc/hummusRecipe.git --unsafe-perm=true --allow-root```
+
+
+
 # Hummus Recipe
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors)
 [![npm version](https://badge.fury.io/js/hummus-recipe.svg)](https://badge.fury.io/js/hummus-recipe)
